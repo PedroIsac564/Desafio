@@ -13,3 +13,6 @@ form {
     color: brown;
     background-color: fuchsia;
 }
+.border {
+    border-radius: 5px;
+}
