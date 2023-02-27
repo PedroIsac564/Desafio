@@ -4,3 +4,12 @@ form {
     margin: auto;
     width: 50%;
 }
+#submit1 {
+    width: 30%;
+    margin: auto;
+    color: rgb(0, 255, 170);
+}
+#submit1:hover {
+    color: brown;
+    background-color: fuchsia;
+}
