@@ -12,7 +12,17 @@ form {
 #submit1:hover {
     color: brown;
     background-color: fuchsia;
+    border-style: none;
 }
-.border {
+#nome {
     border-radius: 5px;
+    margin-bottom: 10px;
+}
+#email {
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+#nome:focus {
+    border-style: none;
+    outline: 0;
 }
